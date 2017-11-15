@@ -1,0 +1,4 @@
+DROP TABLE IF EXISTS produit ;
+DROP TABLE IF EXISTS client ;
+DROP TABLE IF EXISTS achat ;
+
